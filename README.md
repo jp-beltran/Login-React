@@ -1,6 +1,7 @@
 # Tela de Login em React 
 
-Este é o meu primeiro projeto em React, focado na criação de uma interface simples de tela de login utilizando apenas HTML e CSS. O objetivo principal deste projeto é praticar a criação de componentes React e estilização básica sem a utilização de bibliotecas externas.
+> Este é o meu primeiro projeto em React, focado na criação de uma interface simples de tela de login utilizando apenas HTML e CSS. O objetivo principal deste projeto é praticar a criação de componentes React e estilização básica sem a utilização de bibliotecas externas.
+
 ![image](https://github.com/user-attachments/assets/477c98ed-172d-46b1-a9a6-c32d37b461c8)
 
 
